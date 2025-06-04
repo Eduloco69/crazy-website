@@ -1,7 +1,4 @@
-html {
-  cursor: url('../src/cursor.ico'), default; 
-}
-
 body {
     background-image: url("../src/bg.jpg") ;display: flex;
+
 }

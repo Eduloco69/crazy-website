@@ -1,0 +1,4 @@
+html {
+  cursor: url('../src/cursor.ico'), default;
+  background-image: url("src/bg.img");
+}

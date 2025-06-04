@@ -1,0 +1,7 @@
+html {
+  cursor: url('../src/gay_cursor.ico'), default; 
+}
+
+body {
+    background-image: url("../src/gay_bg.png") ;display: flex;
+}

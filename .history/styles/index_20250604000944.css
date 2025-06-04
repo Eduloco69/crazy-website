@@ -1,9 +1,4 @@
-html {
-  cursor: url('../src/cursor.ico'), default; 
-}
-
 body {
-  background-image: url("../src/bg.jpg") ;display: flex;
   margin: 0;
   background-color: #111;
   color: white;
